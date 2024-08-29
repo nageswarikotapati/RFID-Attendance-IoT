@@ -1,0 +1,1 @@
+This project is a simple RFID-based attendance system implemented on an ESP8266 microcontroller. The system uses an RFID reader to identify users and updates attendance records on ThingSpeak. It also provides a visual interface using an LCD display and controls a servo motor to simulate a door lock mechanism.
