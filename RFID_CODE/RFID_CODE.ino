@@ -83,7 +83,7 @@ void loop()
     beep();
     data=" ";
     name="    KEERTHANA   ";
-    number="   22B01A0455   ";
+    number="   ECE-455   ";
     
     lcd.clear();
     lcd.print(" ATTENDENCE  OK ");
@@ -102,7 +102,7 @@ void loop()
     beep();
     data=" ";
     name="    NAGESWARI   ";
-    number="   22B01A0456   ";
+    number="   ECE-456   ";
     
     lcd.clear();
     lcd.print(" ATTENDENCE  OK ");
@@ -122,7 +122,7 @@ void loop()
     beep();
     data=" ";
     name="    LASYA   ";
-    number="   22B01A0452   ";
+    number="   ECE-452   ";
     
     lcd.clear();
     lcd.print(" ATTENDENCE  OK ");
@@ -142,7 +142,7 @@ void loop()
     beep();
     data=" ";
     name="    SRAVANI   ";
-    number="   22B01A0453   ";
+    number="   ECE-453   ";
     
     lcd.clear();
     lcd.print(" ATTENDENCE  OK ");
@@ -162,7 +162,7 @@ void loop()
     beep();
     data=" ";
     name="    MAHITHA   ";
-    number="   22B01A0451   ";
+    number="   ECE-451   ";
     
     lcd.clear();
     lcd.print(" ATTENDENCE  OK ");
@@ -182,7 +182,7 @@ void loop()
     beep();
     data=" ";
     name="    SWAROOPA   ";
-    number="   22B01A0454   ";
+    number="   ECE-454   ";
     
     lcd.clear();
     lcd.print(" ATTENDENCE  OK ");
